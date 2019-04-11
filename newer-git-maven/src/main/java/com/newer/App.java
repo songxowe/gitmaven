@@ -8,5 +8,6 @@ public class App {
     System.out.println("Hello World!");
     System.out.println("Hello Github - Git - IDEA");
     System.out.println("Hello Java架构师.");
+    System.out.println();
   }
 }
